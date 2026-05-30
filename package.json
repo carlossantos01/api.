@@ -1,0 +1,22 @@
+{
+  "name": "atvs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/carlossantos01/atvs#readme",
+  "bugs": {
+    "url": "https://github.com/carlossantos01/atvs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlossantos01/atvs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
